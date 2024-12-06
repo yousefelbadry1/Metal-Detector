@@ -8,7 +8,7 @@
 Metal detector project using the 555 ic circut which generates square waves.
 
 ## GIF Demo <a name = "demo"></a>
-![](https://github.com/mukhaledd/Restaurant-menu/blob/main/menu.gif)
+![](https://github.com/yousefelbadry1/Metal-Detector/blob/main/Simulation%20of%20circut.mov)
 
 ## Main Features <a name ="features"></a>
 -In A-stable circuit, frequency of output is dependable on three variables (Ra ,Rb , C1)
